@@ -13,4 +13,4 @@ scons
 ```
 ./ray_tracer -i ./graphics/[graphics file number].txt 
 ```
-Output will be displayed in output.png
+Output will be displayed in output.png. PNG files of graphics produced are also available in graphcis folder. 
