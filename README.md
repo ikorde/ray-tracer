@@ -4,11 +4,11 @@ Ray tracer that produces the graphics included in the graphics folder. Features 
 
 ## Run Code
 ### Compile
-''' 
+``` 
 scons
-'''
+```
 ### Run 
-''' 
+```
 ./ray_tracer -i ./graphics/[graphics file number].txt 
-'''
+```
 Output will be displayed in output.png
